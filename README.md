@@ -2,10 +2,10 @@
 "Blind Virologists" assignment for Project Laboratory
 
 in cooperation with:
-@rahmidaniel
-@szaboegon
-@balintos29
-@fergem
+-[@rahmidaniel](github.com/rahmidaniel)
+-[@szaboegon](github.com/szaboegon)
+-[@balintos29](github.com/balintos29)
+-[@fergem](github.com/fergem)
 
 Original task description (in Hungarian):
 
