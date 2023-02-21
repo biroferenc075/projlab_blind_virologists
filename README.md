@@ -1,5 +1,5 @@
 # projlab_blind_virologists
-"Blind Virologists" assignment for Project Laboratory
+"Blind Virologists" assignment for Project Laboratory, originally made in 2021
 
 in cooperation with:
 [@rahmidaniel](https://github.com/rahmidaniel)
