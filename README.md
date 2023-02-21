@@ -1,6 +1,12 @@
 # projlab_blind_virologists
 "Blind Virologists" assignment for Project Laboratory
 
+in cooperation with:
+@rahmidaniel
+@szaboegon
+@balintos29
+@fergem
+
 Original task description (in Hungarian):
 
 A világtalan virológusok világa
